@@ -2,9 +2,8 @@
 DOM Dice Game with Javascript
 
 Practice on manipulating the DOM with Javascript. 
-This game was conducted during the https://www.udemy.com/the-complete-javascript-course course. 
 
-GAME RULES:
+<strong> GAME RULES: </strong>
 
 - The game has 2 players, playing in rounds
 - In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score
@@ -13,7 +12,7 @@ GAME RULES:
 - The first player to reach 100 points on GLOBAL score wins the game
 
 
-Skills I practiced: 
+<strong> Skills I practiced: </strong>
 - Creating fundamental game variables 
 - Generating a random number
 - Manipulating the DOM
@@ -22,3 +21,5 @@ Skills I practiced:
 - Setting up an event handler
 - Adding, removing, toggling HTML classes
 - Applying the DRY principle
+
+<em> This game was conducted during the https://www.udemy.com/the-complete-javascript-course course. </em>
